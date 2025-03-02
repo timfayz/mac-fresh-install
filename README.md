@@ -2,7 +2,6 @@
 
 ## Settings
 ```
-Mac Fresh Install
 - [ ] Input sources: Change to Russian – PC
 - [ ] Trackpad: Increase speed +1
 - [ ] Wi-Fi: Switch off Ask to join hotspots
