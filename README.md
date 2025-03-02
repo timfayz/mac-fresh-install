@@ -52,15 +52,17 @@ brew analytics off
 ```bash
 brew install rectangle
 
+brew install --cask visual-studio-code
 brew install --cask yandex-disk
 brew install --cask google-chrome
 brew install --cask skype
 brew install --cask telegram
-brew install --cask whatsapp
-brew install --cask skim
-brew install --cask tunnelblick
+brew install --cask whatsapp # use web.whatsup.com instead
+brew install --cask skim # also pdfgear on appstore
 brew install --cask transmission
+
 # optional
+brew install --cask tunnelblick
 brew install --cask scroll-reverser
 brew install --cask vlc
 brew install --cask zoom
@@ -73,9 +75,6 @@ brew install --cask obs
 ## Dev
 
 ```bash
-xcode-select --install
-brew install --cask visual-studio-code
-
 # git
 brew install git
 brew install lazygit
