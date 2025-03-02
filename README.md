@@ -1,5 +1,40 @@
 # Mac Fresh Install
 
+## Settings
+```
+Mac Fresh Install
+- [ ] Input sources: Change to Russian – PC
+- [ ] Trackpad: Increase speed +1
+- [ ] Wi-Fi: Switch off Ask to join hotspots
+- [ ] Control Center: 
+    - [ ] Don’t show Spotlight on Menu Bar
+    - [ ] Show Accessibility Shortcuts in Control Center
+    - [ ] Show Music Recognition in Control Center
+- [ ] Display: 
+    - [ ] Set second screen as main
+    - [ ] Increase laptop screen text size
+- [ ] Desktop & Deck:
+    - [ ] Switch off click wallpaper to show desktop
+    - [ ] Default browser: arc
+    - [ ] Hot corners:  TL–put display on sleep BL–Application Windows BR–Desktop
+- [ ] Apple Intelligence
+- [ ] Battery: Low power mode: only on battery
+- [ ] Keyboard 
+    - [ ] Swap cmd/opt for USB keyboard 
+    - [ ] Show spotlight search: opt+cmd+space
+    - [ ] Set press global key to do nothing
+- [ ] iCloud: Switch off syncing
+    - [ ] Photos
+    - [ ] Drive
+    - [ ] Stocks
+    - [ ] Home
+- [ ] Privacy & Security
+    - [ ] Switch off System Location services except:  Setting time zone Find my Mac
+- [ ] Spotlight: switch off unnecessary items
+- [ ] Touch ID & Password: Add a second finger
+- [ ] Lock Screen: start screen saver after 10min
+```
+
 ## Brew
 
 ```bash
@@ -106,7 +141,4 @@ mount -a
 # backup:
 1. Vscode settings
 2. .dotfiles
-3. UTM images
-4. VPN configs
-5. git push repos
 ```
