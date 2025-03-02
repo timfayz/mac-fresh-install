@@ -32,6 +32,11 @@
 - Spotlight: switch off unnecessary items
 - Touch ID & Password: Add a second finger
 - Lock Screen: start screen saver after 10min
+
+- Finder
+    - General: New Finder windows show: timfayz
+    - Sidebar: timfayz, etc.
+    - Advanced: Keep folder on top -> (all ticks)
 ```
 
 ## Brew
