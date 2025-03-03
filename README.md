@@ -9,6 +9,7 @@
     - Don’t show Spotlight on Menu Bar
     - Show Accessibility Shortcuts in Control Center
     - Show Music Recognition in Control Center
+    - Show Energy Mode: always
 - Display: 
     - Set second screen as main
     - Increase laptop screen text size
